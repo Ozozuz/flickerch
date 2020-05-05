@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "466757078537",
+    "firebase_url": "https://flickrapp-a0e0b.firebaseio.com",
+    "project_id": "flickrapp-a0e0b",
+    "storage_bucket": "flickrapp-a0e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466757078537:android:4cb8dc2f2ca3408ecdf2d8",
+        "android_client_info": {
+          "package_name": "com.example.flickrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466757078537-dqlmpkfsvulphim8vq0r9bm2v5id08ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flickrapp",
+            "certificate_hash": "b8d95c9f8c15d2e7854bd9382cf2e80bd817e726"
+          }
+        },
+        {
+          "client_id": "466757078537-o3fof77ntr1oo7ni1tian9j771me4hpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flickrapp",
+            "certificate_hash": "050354484fb8db749d1877e9b4c485f16cb3dc0b"
+          }
+        },
+        {
+          "client_id": "466757078537-ft5j6hdvepja5k0tf53d2oa637eu1o1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm1FItEBxhJdoWnbPoZp7mlAU4GWTq4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466757078537-gkcvnjcp5k2qo0v3i9qvopsvsqi18084.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
